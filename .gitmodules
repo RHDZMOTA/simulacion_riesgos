@@ -1,0 +1,6 @@
+[submodule "financial_series"]
+	path = financial_series
+	url = https://github.com/rhdzmota/financial_series.git
+[submodule "p2/financial_mathematics"]
+	path = p2/financial_mathematics
+	url = https://github.com/rhdzmota/financial_mathematics.git
